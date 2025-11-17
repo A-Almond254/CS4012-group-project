@@ -6,7 +6,6 @@
 <meta chardet="UTF-8">
 <!-- Special Characters commenting -->
 <link rel="stylesheet" href="CS4012GroupProjectCSS.css">
-<title>CS4012 Project</title>
 </head>
 <body>
 
